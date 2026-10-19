@@ -1,0 +1,17 @@
+**/Data/
+**/*-window.ini
+**/notes.txt
+**/backups/
+
+dist/
+artifacts/
+*.exe
+*.pdb
+*.zip
+*-host-qa.txt
+*Test-results.txt
+qa-host-*/
+.vs/
+.idea/
+*.user
+*.suo
