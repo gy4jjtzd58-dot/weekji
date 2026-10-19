@@ -1,0 +1,22 @@
+name: Build Windows app
+on: [push, pull_request, workflow_dispatch]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - name: Build and verify
+        shell: powershell
+        run: ./scripts/Build.ps1
+
+      - uses: actions/upload-artifact@v7
+        with:
+          name: WeekJi
+          path: dist/WeekJi
