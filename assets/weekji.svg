@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>week记</title>
+  <rect x="4" y="4" width="248" height="248" rx="54" fill="#fcfcfd"/>
+  <path d="M 36 101 C 54 111 56 153 81 153 C 101 153 107 113 128 113 C 149 113 156 153 175 153 C 198 153 202 112 220 101"
+        fill="none" stroke="#073578" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
