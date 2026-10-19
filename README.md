@@ -2,6 +2,11 @@
 
 适用于 Windows 的透明桌面计划应用。一个主窗口中，左侧显示一周七天的上午、下午、晚上和备注，右侧是随时记录事项的随心记。拖动中间分隔条可以调整两栏宽度。
 
+## 界面预览
+<img width="971" height="782" alt="week-plan" src="https://github.com/user-attachments/assets/790a1c8f-9d9d-4815-bfec-92c91d08fa4e" />
+<img width="370" height="484" alt="appearance-settings" src="https://github.com/user-attachments/assets/6a757f7a-8ca5-4518-919f-278295514801" />
+
+
 ## 功能
 
 - 周计划与随心记合并在一个主窗口中，使用统一的深蓝色 W 波浪图标和一个桌面入口。
