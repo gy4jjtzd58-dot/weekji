@@ -2,15 +2,15 @@
 
 适用于 Windows 的透明桌面计划应用。一个主窗口中，左侧显示一周七天的上午、下午、晚上和备注，右侧是随时记录事项的随心记。拖动中间分隔条可以调整两栏宽度。
 
-## 界面预览
-<img width="971" height="782" alt="week-plan" src="https://github.com/user-attachments/assets/790a1c8f-9d9d-4815-bfec-92c91d08fa4e" />
-<img width="370" height="484" alt="appearance-settings" src="https://github.com/user-attachments/assets/6a757f7a-8ca5-4518-919f-278295514801" />
-
 ## 亮点
 此桌面备忘录的理念是“附着于桌面壁纸”，也就是和壁纸融为一体的感觉。具体体现为：
 - 永远处于窗口的最下方，不会覆盖其他窗口
 - 点击“win+d”，也就是点击“显示桌面”时，不会最小化备忘录，这可以让使用者快速使用或查看备忘录，有隐藏需求时可按“ctrl+d"来隐藏窗口
 - 用一周五天作为计量单位，分为上午下午晚上以及备注，可以对自己每天的任务、活动进行精细化计划，任务的DDL可以写在“随心记”或者每天的“备注”中
+
+## 界面预览
+<img width="971" height="782" alt="week-plan" src="https://github.com/user-attachments/assets/790a1c8f-9d9d-4815-bfec-92c91d08fa4e" />
+<img width="370" height="484" alt="appearance-settings" src="https://github.com/user-attachments/assets/6a757f7a-8ca5-4518-919f-278295514801" />
 
 ## 功能
 
